@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "src": "/(.*\\.application)",
+      "headers": { "Content-Type": "application/x-ms-application" },
+      "dest": "/$1"
+    },
+    {
+      "src": "/(.*\\.manifest)",
+      "headers": { "Content-Type": "application/x-ms-manifest" },
+      "dest": "/$1"
+    },
+    {
+      "src": "/(.*\\.deploy)",
+      "headers": { "Content-Type": "application/octet-stream" },
+      "dest": "/$1"
+    }
+  ]
+}
