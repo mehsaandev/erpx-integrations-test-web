@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\TexInnovaDesktop_1_0_0_6\TexInnovaDesktop.dll.manifest" size="23575">
+    <dependentAssembly dependencyType="install" codebase="ApplicationFiles\TexInnovaDesktop_1_0_0_6\TexInnovaDesktop.dll.manifest" size="23575">
       <assemblyIdentity name="TexInnovaDesktop.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
