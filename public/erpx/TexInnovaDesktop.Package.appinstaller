@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://erpx-integrations-test-web.vercel.app/erpx/TexInnovaDesktop.Package.appinstaller"
-	Version="1.0.28.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.29.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="5305faae-49b9-4d6c-9da1-2b43751e5bdc"
-		Version="1.0.28.0"
+		Version="1.0.29.0"
 		Publisher="CN=Texinnova"
-		Uri="https://erpx-integrations-test-web.vercel.app/erpx/TexInnovaDesktop.Package_1.0.28.0_Test/TexInnovaDesktop.Package_1.0.28.0_x64.msixbundle" />
+		Uri="https://erpx-integrations-test-web.vercel.app/erpx/TexInnovaDesktop.Package_1.0.29.0_Test/TexInnovaDesktop.Package_1.0.29.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
